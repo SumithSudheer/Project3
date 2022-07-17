@@ -1,0 +1,65 @@
+.nav-item{
+    padding-left: 10px;
+    text-align: center;
+    text-decoration-style: none;
+    
+}
+.navbar{
+    text-decoration: none;
+}
+.containers{
+    margin-left: auto;
+    margin-right: auto;
+}
+#section-home{
+    background-image: url("/spyder_website_banner.png");
+    
+}
+div{
+    display: block;
+    
+}
+
+.body-section {
+    clear: both;
+    padding-bottom: 4em;
+    padding-top: 3em;
+    /* position: relative; */
+}
+div{
+    display: block;
+}
+.center{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.content{
+    text-align: center;
+    height: 300px;
+}
+h2{
+    text-align: center;
+}
+.h2-plugins{
+    padding-top: 20px;
+}
+.content1{
+    
+    height: 300px;
+}
+.win-key{
+    color: white;
+}
+.btn{
+    border-radius: 50px;
+}
+.test{
+    justify-content: space-between;
+}
+.pipe-colored{
+    color: red;
+}
+.footlink{
+    text-decoration: none;
+    color: white;
+}
